@@ -1,0 +1,16 @@
+title: Muitech Digital
+description: ICT & Digital Media Solutions — Port Moresby, Papua New Guinea
+url: "https://www.muitech.net"
+baseurl: ""
+author: Mellah Kilangit
+email: mk@muitech.net
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
